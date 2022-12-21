@@ -1,6 +1,6 @@
-## Package
-### Tailwind
-https://github.com/dcasia/mini-program-tailwind#taro-小程序
+## AHU Learn
+## Requirements
+- node: 18
 
 ## Dev
 ```bash
@@ -23,3 +23,7 @@ taro init ahulearn
 cd ahulearn
 npm i
 ```
+
+## Plugins
+### Tailwind
+https://github.com/dcasia/mini-program-tailwind#taro-小程序
